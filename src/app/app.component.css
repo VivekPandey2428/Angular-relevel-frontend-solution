@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.heading{
+    display: flex;
+    background:#606469;
+}
+.logo{
+    width:40px;
+    height:40px;
+    margin-top:10px;
+    margin-left:100px;
+    padding-right:10px;
+}
+.card-details{
+    margin-left:100px;
+    background:#ffe4c4;
+    width:200px;
+    padding-left:20px;
+    margin-top:50px;
+    border-radius: 5px;
+}
